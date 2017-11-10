@@ -1,0 +1,25 @@
+#doctor-modal>.modal-content {
+	max-width: 480px;
+}
+
+#doctor-modal input[type="text"], #doctor-modal select {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	border: 1px solid gray;
+	padding: 5px;
+}
+
+th {
+	text-align: left;
+}
+
+a.edit, a.delete {
+	cursor: pointer;
+}

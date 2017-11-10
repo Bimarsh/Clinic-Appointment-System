@@ -1,0 +1,17 @@
+#prescription-modal>.modal-content {
+	max-width: 480px;
+}
+
+#prescription-modal input[type="text"], #prescription-modal textarea {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#prescription-tools {
+	margin-top: 20px;
+}
+
+.go-back {
+	padding: 5px;
+	border: 1px solid gray;
+}
